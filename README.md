@@ -9,7 +9,6 @@ I've been learning MVC, Software Process, Netcwork and commutnication, and Softw
 * 🌍  I'm based in Pathumthani ,Thailand
 * ✉️  You can contact me at [totpophy14755@gmail.com](mailto:totpophy14755@gmail.com)
 * 🏫  I'm studying at Thammasat University.
- <img src="https://tu.ac.th/uploads//main-logo.svg" height="40" alt="Python" />
 
 ### Skills
 
